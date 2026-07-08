@@ -15,4 +15,12 @@ daily leetcode practice
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/charviGit/leetcodeSolutions/tree/master/0053-maximum-subarray) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/charviGit/leetcodeSolutions/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/charviGit/leetcodeSolutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
