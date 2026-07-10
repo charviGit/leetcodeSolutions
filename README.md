@@ -25,4 +25,12 @@ daily leetcode practice
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/charviGit/leetcodeSolutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/charviGit/leetcodeSolutions/tree/master/0206-reverse-linked-list) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/charviGit/leetcodeSolutions/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/charviGit/leetcodeSolutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
