@@ -17,6 +17,7 @@ daily leetcode practice
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/charviGit/leetcodeSolutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/charviGit/leetcodeSolutions/tree/master/0070-climbing-stairs) |
 ## Linked List
 |  |
 | ------- |
@@ -40,4 +41,12 @@ daily leetcode practice
 | ------- |
 | [0035-search-insert-position](https://github.com/charviGit/leetcodeSolutions/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/charviGit/leetcodeSolutions/tree/master/0704-binary-search) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/charviGit/leetcodeSolutions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/charviGit/leetcodeSolutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
