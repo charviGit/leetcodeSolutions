@@ -6,6 +6,7 @@ daily leetcode practice
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/charviGit/leetcodeSolutions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/charviGit/leetcodeSolutions/tree/master/0053-maximum-subarray) |
 | [0704-binary-search](https://github.com/charviGit/leetcodeSolutions/tree/master/0704-binary-search) |
 ## Divide and Conquer
@@ -37,5 +38,6 @@ daily leetcode practice
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/charviGit/leetcodeSolutions/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/charviGit/leetcodeSolutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
