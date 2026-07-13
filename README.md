@@ -7,6 +7,7 @@ daily leetcode practice
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/charviGit/leetcodeSolutions/tree/master/0053-maximum-subarray) |
+| [0704-binary-search](https://github.com/charviGit/leetcodeSolutions/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -33,4 +34,8 @@ daily leetcode practice
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/charviGit/leetcodeSolutions/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/charviGit/leetcodeSolutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
