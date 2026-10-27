@@ -33,6 +33,7 @@ daily leetcode practice
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/charviGit/leetcodeSolutions/tree/master/0020-valid-parentheses) |
+| [0412-fizz-buzz](https://github.com/charviGit/leetcodeSolutions/tree/master/0412-fizz-buzz) |
 ## Stack
 |  |
 | ------- |
@@ -46,6 +47,7 @@ daily leetcode practice
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/charviGit/leetcodeSolutions/tree/master/0070-climbing-stairs) |
+| [0412-fizz-buzz](https://github.com/charviGit/leetcodeSolutions/tree/master/0412-fizz-buzz) |
 ## Memoization
 |  |
 | ------- |
@@ -88,4 +90,8 @@ daily leetcode practice
 | [0110-balanced-binary-tree](https://github.com/charviGit/leetcodeSolutions/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/charviGit/leetcodeSolutions/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/charviGit/leetcodeSolutions/tree/master/0543-diameter-of-binary-tree) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/charviGit/leetcodeSolutions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
