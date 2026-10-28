@@ -8,6 +8,7 @@ daily leetcode practice
 | ------- |
 | [0035-search-insert-position](https://github.com/charviGit/leetcodeSolutions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/charviGit/leetcodeSolutions/tree/master/0053-maximum-subarray) |
+| [0485-max-consecutive-ones](https://github.com/charviGit/leetcodeSolutions/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/charviGit/leetcodeSolutions/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
