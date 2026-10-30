@@ -6,6 +6,7 @@ daily leetcode practice
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/charviGit/leetcodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/charviGit/leetcodeSolutions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/charviGit/leetcodeSolutions/tree/master/0053-maximum-subarray) |
 | [0485-max-consecutive-ones](https://github.com/charviGit/leetcodeSolutions/tree/master/0485-max-consecutive-ones) |
@@ -60,6 +61,7 @@ daily leetcode practice
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/charviGit/leetcodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/charviGit/leetcodeSolutions/tree/master/0141-linked-list-cycle) |
 ## Tree
 |  |
